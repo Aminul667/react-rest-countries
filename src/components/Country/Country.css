@@ -5,3 +5,7 @@
     border: 2px rosybrown solid;
     border-radius: 20px;
 }
+
+.country img{
+    width: 70%;
+}
